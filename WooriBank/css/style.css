@@ -1,0 +1,130 @@
+@charset "utf-8";
+
+.container {
+    position: relative;
+    width: 980px;
+    margin: 0 auto;
+    background: rgba(0, 0, 0, 0.4);
+}
+
+#header {
+    line-height: 66px;
+}
+
+.header {
+    position: relative;
+}
+
+.header .header_logo {
+    position: absolute;
+    display: inline-block;
+    left: 0;
+    top: 10px;
+}
+
+
+
+.header .login_btn {
+    width: 80px;
+    height: 30px;
+    overflow: hidden;
+    background: url(../image/gnb_member_re1121.png) left top no-repeat;
+    background-size: contain;
+    border-radius: 5px;
+    display: inline-block;
+    position: absolute;
+    top: 17px;
+    left: 138px;
+}
+
+.header .login {
+    line-height: 30px;
+    display: block;
+    text-align: center;
+    font-size: 14px;
+    height: 100%;
+    font-weight: bold;
+    margin-left: 9px;
+    color: #fff;
+}
+
+.header .renew_certification {
+    background: url(../image/gnb_cert_re1121.png) left top no-repeat;
+    overflow: hidden;
+    background-size: contain;
+    border-radius: 5px;
+    display: inline-block;
+    width: 136px;
+    height: 30px;
+    position: absolute;
+    top: 17px;
+    left: 222px;
+}
+
+.header .renew_certification .renew_cert {
+    line-height: 30px;
+    height: 100%;
+    margin-left: 17px;
+    display: block;
+    text-align: center;
+    font-size: 14px;
+    font-weight: bold;
+}
+
+.header .menu {
+    display: inline-block;
+}
+
+.header .menu img {
+    display: inline-block;
+    border: none;
+    vertical-align: top;
+}
+
+.header .tit1 {
+    position: absolute;
+    top: 24px;
+    left: 375px;
+}
+
+.header .tit2 {
+    position: absolute;
+    top: 24px;
+    left: 435px;
+}
+
+.header .tit3 {
+    position: absolute;
+    top: 24px;
+    left: 495px;
+}
+
+.header .tit4 {
+    position: absolute;
+    top: 24px;
+    left: 590px;
+}
+
+.header .tit5 {
+    position: absolute;
+    top: 24px;
+    left: 680px;
+}
+
+.header .tit6 {
+    position: absolute;
+    top: 24px;
+    left: 760px;
+}
+
+.header .tit7 {
+    position: absolute;
+    top: 24px;
+    left: 850px;
+}
+
+.header .tit8 {
+    position: absolute;
+    top: 18px;
+    left: 940px;
+}
