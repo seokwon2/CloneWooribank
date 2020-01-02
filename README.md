@@ -1,3 +1,3 @@
 # CloneWooribank
 
-<a href="../Wooribank/index.html"> Test</a>
+<a href="https://seongseokwon.github.io/CloneWooribank/Wooribank/index.html"> Test</a>
